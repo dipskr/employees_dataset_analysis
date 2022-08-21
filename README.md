@@ -1,1 +1,2 @@
-# employees_dataset_analysis
+# employees_dataset_analysis by using Tableau
+This is the analysis of dataset in which where we are doing comparison between male and female employees. We have done the analysis of change ratio of male and female employees from 1989 to 2003. We also see that how average salary of female has always less compared to male employees. We have plotted Bar graph to show how average salary of male and female employees through out the different departments remain less compared to male employees. 
